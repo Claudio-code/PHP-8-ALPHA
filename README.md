@@ -23,4 +23,3 @@
 - Nova função fdiv()
 - Nova função get_debug_type()
 - Traits com metodos Abstratos melhorado
--
